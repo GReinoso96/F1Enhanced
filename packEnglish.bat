@@ -1,0 +1,1 @@
+armips.exe main.asm -temp Log_Eng.txt
