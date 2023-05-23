@@ -12,11 +12,11 @@
 .definelabel CraftList_Style,        0x088f31bb
 .definelabel CraftList_Text_Spacing, 0x088f31c0
 
-.org CraftList_Text_X
-    .sh 0x20
+;.org CraftList_Text_X
+;    .sh 0x20
 
-.org CraftList_Price_X
-    .sh 0x94
+;.org CraftList_Price_X
+;    .sh 0x94
 
 ; Rewrite Ideas
 ; CraftList_Frame should set the base positions

@@ -5,3 +5,12 @@ game/game_task.ovl
 game/game_sub.ovl
 armips.exe
 Log_Eng.txt
+rel/EBOOT.BIN
+rel/SYSDIR - Acceso directo.lnk
+game/eur/game_task.ovl
+game/usa/game_task.ovl
+game/jpn/game_task.ovl
+rel/PPSSPPWindows64 - Acceso directo.lnk
+rel/eur/game_task.ovl
+rel/jpn/game_task.ovl
+rel/usa/game_task.ovl
