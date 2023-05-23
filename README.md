@@ -9,4 +9,8 @@ Monster Hunter Freedom Enhanced is an improvement patch for Monster Hunter Freed
 
 ## How to Install
 
-Use [DeltaPatcher](https://www.romhacking.net/utilities/704/) to apply the .xdelta to the corresponding ISO.
+Head on over to [Releases](https://github.com/GReinoso96/F1Enhanced/releases) and use [DeltaPatcher](https://www.romhacking.net/utilities/704/) to apply the .xdelta to the corresponding ISO.
+
+## More Information
+
+Information on further developments, future mods and other things can be found on [my Discord server](https://discord.gg/FGkHwysqe6).
